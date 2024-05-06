@@ -7,7 +7,7 @@ We have introduced the **YT360-VQA** dataset, a large-scale dataset of of user-g
 # How to download?
 
 
-As the source of all videos is [YouTube](https://youtube.com/), you can download the videos using the provided links [here](). Timestamp start times are available alongside the links, and all videos are 15 seconds long.
+As the source of all videos is [YouTube](https://youtube.com/), you can download the videos using the provided links [here](Links-YT360-VQA.xlsx). Timestamp start times are available alongside the links, and all videos are 15 seconds long.
 
 
 # MOS
